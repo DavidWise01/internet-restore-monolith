@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1481
+slug  : internet-restore-monolith
+seal  : b989f11d47920cc3aa7d1e63b5f7047f58d5f27fea88a3b0a868f7a3d103bb2a
+prev  : c96233e6a0bce9dc2a38e13ed25b01152739e450e74b7d4da4d0f043d4a29683
+link  : 1046abe0105fa1836f3d4ca806953ffa0702c52e082ad5e471ee0ee4fad61faa
+head  : bf78606f04fe86c7a7222f650c3d36e896bdfa68d6b60c29576f92b9dba7b8a4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
